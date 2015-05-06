@@ -1,7 +1,7 @@
 body { /* 整个页面的显示格式 */
     background-color: #fdf1d5;
-    padding-left: 20px;
-    padding-right: 20px;
+    padding-left: 4px;
+    padding-right: 4px;
 }
 
 h1 { /* 标题的显示格式 */
